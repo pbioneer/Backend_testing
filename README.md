@@ -1,1 +1,3 @@
 # Backend_testing
+
+В этом проекте изучены [методы REST API](https://github.com/pbioneer/Backend_testing/blob/main/Backend_testing/REST_API.md), и выполнено тестирование API ресурса https://restful-booker.herokuapp.com c помощью Postman. В репозитории лежат файлы колекции и окружения для Postman, которые можно запустить на автотест. Написана [инструкция по работе с Postman](https://github.com/pbioneer/Backend_testing/blob/main/Backend_testing/Postman_guid.md). Так же в ходе выполнения проекта были изучены [базы данных](https://github.com/pbioneer/Backend_testing/blob/main/Backend_testing/Databases.md) и СУБД.
